@@ -41,12 +41,12 @@
 
         // --- START: PASTE YOUR KEYS HERE ---
         const firebaseConfig = {
-            apiKey: "YOUR_FIREBASE_API_KEY",
-            authDomain: "YOUR_FIREBASE_AUTH_DOMAIN",
-            projectId: "YOUR_FIREBASE_PROJECT_ID",
-            storageBucket: "YOUR_FIREBASE_STORAGE_BUCKET",
-            messagingSenderId: "YOUR_FIREBASE_MESSAGING_SENDER_ID",
-            appId: "YOUR_FIREBASE_APP_ID"
+            apiKey: "AIzaSyCpQWaTBa9HqmwHKAaah6EcajM8ISjHAZo",
+            authDomain: "julyone-9e0e4.firebaseapp.com",
+            projectId: "julyone-9e0e4",
+            storageBucket: "julyone-9e0e4.firebasestorage.app",
+            messagingSenderId: "930528887543",
+            appId: "1:930528887543:web:a8f59192db11ce189ec9f2"
         };
         const GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY";
         const GOOGLE_CLIENT_ID = "YOUR_GOOGLE_CLIENT_ID";
